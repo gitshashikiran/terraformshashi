@@ -1,6 +1,0 @@
-.terraform/
-.terraform.lock.hcl
-license.txt
-main.ftplan
-terraform.exe
-terraform.tfstate
